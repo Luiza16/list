@@ -1,0 +1,8 @@
+#### CLION ###
+**/.idea
+*.iws
+*.iml
+*.ipr
+
+#### Build ###
+**/cmake-build-debug
